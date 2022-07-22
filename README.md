@@ -2,6 +2,8 @@
 
 ## Documentação da API
 
+#### A URL base da aplicação: https://solid-control-api.herokuapp.com/
+
 ## Tabela de Conteúdos:
 
 - [Solid Control ⚓](#solid-control-)
@@ -44,9 +46,6 @@ Tecnologias usadas:
 - [Commitizen](https://www.npmjs.com/package/commitizen)
 - [Jest](https://www.npmjs.com/package/jest)
 - [UUID-validate](https://www.npmjs.com/package/uuid-validate)
-
-A URL base da aplicação:
-https://solid-control-api.herokuapp.com/
 
 ---
 
